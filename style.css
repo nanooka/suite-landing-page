@@ -92,16 +92,7 @@ main {
   margin-top: 950px;
 }
 .container {
-  /* margin-top: 300px; */
   background-color: #172339;
-  /* text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 40px;
-  padding: 20px;
-  padding-top: 250px;
-  padding-bottom: 65px; */
   border-radius: 15px;
   position: absolute;
   bottom: -30px;
@@ -132,13 +123,6 @@ main {
 .line-2 {
   width: 70px;
 }
-/* .blur {
-  position: absolute;
-  top: 0px;
-  left: 50%;
-  transform: translate(-50%);
-  width: 50%;
-} */
 h2 {
   color: #faf8f6;
   font-weight: 400;
@@ -163,7 +147,6 @@ main span {
   gap: 10px;
 }
 footer {
-  /* margin: -30px; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -211,7 +194,6 @@ button,
     background-repeat: no-repeat;
     background-position-y: 150px;
     background-position-x: calc(100% - 40px);
-    /* background-position-x: right; */
   }
   h1 {
     font-size: 56px;
@@ -253,7 +235,6 @@ button,
   }
   .container {
     margin: 40px;
-    /* margin-bottom: -400px; */
   }
   footer {
     flex-direction: row;
@@ -302,7 +283,6 @@ button,
   .part-2 {
     flex-direction: column;
     margin-top: 0;
-    margin-right: 200px;
   }
   .amount {
     text-align: start;
